@@ -1,2 +1,2 @@
 # CSES-solutions
-Mu solutions for CSES problems
+My solutions for CSES problems
