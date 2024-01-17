@@ -24,6 +24,7 @@ ll solution(ll k){
         cr3++;
     }
     ll nap = cr2*cr3*2*2;
+    //you can replace nap with this formula  ll nap = (k-1)*(k-2)*2*2;
     
     ll r = k*k*(k*k-1)/2;
     // cout<<"cr2="<<cr2<<"cr3="<<cr3<<" nap: "<<nap<<" r: "<<r<<" ";
